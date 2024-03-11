@@ -3,7 +3,7 @@ function NavBar() {
   return (
     <div className="md:grid grid-cols-4 pt-3 pb-5">
       <div className="flex justify-center md:items-center">
-        <img src="../src/assets/icon.png" className="pl-10" />
+        <img src="/icon.png" className="pl-10" />
       </div>
       <div className="col-span-2 flex justify-around font-medium text-base items-center">
         <p>Become a Renter</p>

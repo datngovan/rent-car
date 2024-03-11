@@ -10,7 +10,7 @@ import About2 from "./components/About2";
 function App() {
   return (
     <>
-      <div className='bg-[url("../src/assets/bg-icon.png")] bg-no-repeat bg-right-top h-100vh grid content-between'>
+      <div className='bg-[url("/bg-icon.png")] bg-no-repeat bg-right-top h-100vh grid content-between'>
         <NavBar />
         <HeadContent />
         <SearchBar />

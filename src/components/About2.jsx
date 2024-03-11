@@ -3,9 +3,9 @@ import Title from "../ui/Title";
 function About2() {
   return (
     <>
-      <div className="grid grid-rows-1 justify-items-center lg:justify-items-start lg:grid-cols-2 items-center lg:bg-[url('../src/assets/bg-icon2.png')] bg-no-repeat bg-left-top">
+      <div className="grid grid-rows-1 justify-items-center lg:justify-items-start lg:grid-cols-2 items-center lg:bg-[url('bg-icon2.png')] bg-no-repeat bg-left-top">
         <div className="justify-self-start order-last lg:order-first lg:visible collapse">
-          <img src="../src/assets/Audi-car.png" />
+          <img src="/audi-car.png" />
         </div>
         <div className="grid grid-row-2 items-start">
           <div className="mb-14">

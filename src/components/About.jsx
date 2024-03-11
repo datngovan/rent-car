@@ -13,7 +13,7 @@ function About() {
         <div className="grid grid-rows-3 md:grid-cols-[repeat(3,minmax(200px,1fr))] md:grid-rows-1 gap-10 justify-items-center pt-20">
           <div>
             <div className="flex justify-center pb-9">
-              <img src="../src/assets/icon-location.png" />
+              <img src="/icon-location.png" />
             </div>
             <p className="text-center font-bold pb-6 text-xl">
               Choose location
@@ -24,7 +24,7 @@ function About() {
           </div>
           <div>
             <div className="flex justify-center pb-9">
-              <img src="../src/assets/icon-calendar.png" />
+              <img src="/icon-calendar.png" />
             </div>
             <p className="text-center font-bold pb-6 text-xl">Pick-up date</p>
             <p className="text-center font-medium text-grey text-sm">
@@ -34,7 +34,7 @@ function About() {
           </div>
           <div>
             <div className="flex justify-center pb-9">
-              <img src="../src/assets/icon-car.png" />
+              <img src="/icon-car.png" />
             </div>
             <p className="text-center font-bold pb-6 text-xl">Book your car</p>
             <p className="text-center font-medium text-grey text-sm">
@@ -46,42 +46,42 @@ function About() {
         <div className="w-[85%] pt-40 pb-20 inline-flex flex-nowrap overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_128px,_black_calc(100%-128px),transparent_100%)]">
           <ul className="flex items-center justify-center md:justify-start [&_li]:mx-10 [&_img]:max-w-none animate-infinite-scroll">
             <li>
-              <img src="../src/assets/nissan.png" />
+              <img src="/nissan.png" />
             </li>
             <li>
-              <img src="../src/assets/honda.png" />
+              <img src="/honda.png" />
             </li>
             <li>
-              <img src="../src/assets/jaguar.png" className="h-5" />
+              <img src="/jaguar.png" className="h-5" />
             </li>
             <li>
-              <img src="../src/assets/audi.png" className="h-10" />
+              <img src="/audi.png" className="h-10" />
             </li>
             <li>
-              <img src="../src/assets/volvo.png" className="h-5" />
+              <img src="/volvo.png" className="h-5" />
             </li>
             <li>
-              <img src="../src/assets/acura.png" />
+              <img src="/acura.png" />
             </li>
           </ul>
           <ul className="flex items-center justify-center md:justify-start [&_li]:mx-10 [&_img]:max-w-none animate-infinite-scroll ">
             <li>
-              <img src="../src/assets/nissan.png" />
+              <img src="/nissan.png" />
             </li>
             <li>
-              <img src="../src/assets/honda.png" />
+              <img src="/honda.png" />
             </li>
             <li>
-              <img src="../src/assets/jaguar.png" className="h-5" />
+              <img src="/jaguar.png" className="h-5" />
             </li>
             <li>
-              <img src="../src/assets/audi.png" className="h-10" />
+              <img src="/audi.png" className="h-10" />
             </li>
             <li>
-              <img src="../src/assets/volvo.png" className="h-5" />
+              <img src="/volvo.png" className="h-5" />
             </li>
             <li>
-              <img src="../src/assets/acura.png" />
+              <img src="/acura.png" />
             </li>
           </ul>
         </div>
