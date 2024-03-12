@@ -7,6 +7,7 @@ export default {
       "primary-color-100": "#e7f0fa",
       white: "#FFF",
       "text-secondary": "#484848",
+      "text-secondary-100": "#959595",
       "grey": "#6D6D6D"
     },
     extend: {

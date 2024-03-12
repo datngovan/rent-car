@@ -7,6 +7,7 @@ import About from "./components/About";
 import Icon from "./ui/Icon";
 import Title from "./ui/Title";
 import About2 from "./components/About2";
+import Retails from "./components/Retails";
 function App() {
   return (
     <>
@@ -16,7 +17,8 @@ function App() {
         <SearchBar />
       </div>
       <About />
-      <About2/>
+      <About2 />
+      <Retails/>
     </>
   );
 }

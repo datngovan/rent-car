@@ -4,7 +4,7 @@ function About2() {
   return (
     <>
       <div className="grid grid-rows-1 justify-items-center lg:justify-items-start lg:grid-cols-2 items-center lg:bg-[url('bg-icon2.png')] bg-no-repeat bg-left-top">
-        <div className="justify-self-start order-last lg:order-first lg:visible collapse">
+        <div className="justify-self-start order-last lg:order-first lg:visible max-lg:hidden">
           <img src="/audi-car.png" />
         </div>
         <div className="grid grid-row-2 items-start">
