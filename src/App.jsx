@@ -8,6 +8,7 @@ import Icon from "./ui/Icon";
 import Title from "./ui/Title";
 import About2 from "./components/About2";
 import Retails from "./components/Retails";
+import Testimonials from "./components/Testimonials";
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
       <About />
       <About2 />
       <Retails/>
+      <Testimonials/>
     </>
   );
 }

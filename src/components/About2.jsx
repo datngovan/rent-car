@@ -12,8 +12,8 @@ function About2() {
             <div className="flex pb-8 justify-center lg:justify-start">
               <Title content={"WHY CHOOSE US"} />
             </div>
-            <p className="text-3xl font-medium">
-              We offer the best experience <br /> with our rental deals
+            <p className="text-3xl font-medium text-center">
+              We offer the best experience<br />with our rental deals
             </p>
           </div>
           <div className="grid grid-rows-4 ">
