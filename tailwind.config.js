@@ -9,7 +9,7 @@ export default {
       "text-secondary": "#484848",
       "text-secondary-100": "#959595",
       "text-secondary-200": "#838383",
-      "grey": "#6D6D6D"
+      "grey": "#d6d6d6"
     },
     extend: {
       keyframes:{

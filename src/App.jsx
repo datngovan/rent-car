@@ -10,6 +10,7 @@ import About2 from "./components/About2";
 import Retails from "./components/Retails";
 import Testimonials from "./components/Testimonials";
 import Download from "./components/Download";
+import Footer from "./components/Footer";
 function App() {
   return (
     <>
@@ -23,6 +24,7 @@ function App() {
       <Retails/>
       <Testimonials/>
       <Download/>
+      <Footer/>
     </>
   );
 }
