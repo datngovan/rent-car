@@ -9,6 +9,7 @@ import Title from "./ui/Title";
 import About2 from "./components/About2";
 import Retails from "./components/Retails";
 import Testimonials from "./components/Testimonials";
+import Download from "./components/Download";
 function App() {
   return (
     <>
@@ -21,6 +22,7 @@ function App() {
       <About2 />
       <Retails/>
       <Testimonials/>
+      <Download/>
     </>
   );
 }
